@@ -98,7 +98,7 @@ switch (ENVIRONMENT)
  * Include the path if the folder is not in the same directory
  * as this file.
  */
-	$system_path = "/usr/share/pear/codeigniter/system";
+    $system_path = "../system3";
 
 /*
  *---------------------------------------------------------------
@@ -113,7 +113,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = "/opt/lampp/htdocs/jay-is-the-best/application";
+	$application_folder = "application";
 
 /*
  *---------------------------------------------------------------
